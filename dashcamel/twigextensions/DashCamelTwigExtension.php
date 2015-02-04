@@ -47,7 +47,8 @@ class DashCamelTwigExtension extends \Twig_Extension
         {
             $var = str_replace(' ', '', ucwords(str_replace('-', ' ', $var)));
 
-            if (!$startWithCapital) {
+            if (!$startWithCapital)
+            {
                 $var = lcfirst($var);
             }
         }
