@@ -1,6 +1,6 @@
 # Dash Camel for Craft
 
-Custom Twig extension to enable conversion from hyphenated to camel case syntax.
+Craft plugin to wrap custom Twig extension to convert from hyphenated-string to camelCase syntax.
 
 ## Usage
 
